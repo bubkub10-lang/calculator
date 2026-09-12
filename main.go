@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	ch.Choose()
+	ch.DefChoose()
 }
